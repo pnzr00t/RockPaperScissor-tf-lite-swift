@@ -1,0 +1,6 @@
+framework module Pods_rock_paper_scissors_tf {
+  umbrella header "Pods-rock_paper_scissors-tf-umbrella.h"
+
+  export *
+  module * { export * }
+}
